@@ -8,7 +8,7 @@
     <TextView 
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:text="陈路改了吗"/>
+        android:text="陈路改了吗陈路改了吗陈路改了吗陈路改了吗" />
     
 </RelativeLayout>
 
